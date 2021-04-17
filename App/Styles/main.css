@@ -1,0 +1,55 @@
+﻿.form_row {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.vertical {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.vertical_line {
+    border-left: 2px solid black;
+    border-radius: 2px;
+    height: 100%;
+    text-align: center;
+}
+
+.btn_save {
+    padding-left: 25.8px;
+    padding-right: 25.8px;
+}
+
+.btn_clear {
+    padding-left: 24.5px;
+    padding-right: 24.5px;
+}
+
+.btn_delete {
+    padding-left: 25.8px;
+    padding-right: 25.8px;
+}
+
+.currency-selector {
+    height: 38px;
+    padding-left: 26.6px;
+    padding-right: 26.6px;
+    appearance: none;
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1024' height='640'><path d='M1017 68L541 626q-11 12-26 12t-26-12L13 68Q-3 49 6 24.5T39 0h952q24 0 33 24.5t-7 43.5z'></path></svg>") 90%/12px 6px no-repeat;
+}
+
+.status_selector {
+    /*padding-right: 97.6px;*/
+    appearance: none;
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1024' height='640'><path d='M1017 68L541 626q-11 12-26 12t-26-12L13 68Q-3 49 6 24.5T39 0h952q24 0 33 24.5t-7 43.5z'></path></svg>") 90%/12px 6px no-repeat;
+}
+
+/* .currency-addon {
+	text-align: left;
+	position: relative;
+}
+
+.status-addon{
+	text-align: left;
+	position: relative;
+} */
